@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [**Resume here**](https://ravinpoudel.github.io/images/RavinPoudel.pdf)
 
-- 🌐 [**My personal**](https://ravinpoudel.github.io)
+- 🌐 [**My personal webpage**](https://ravinpoudel.github.io)
 
 - 📚 [**My Publications**](https://scholar.google.com/citations?user=FQfT3o4AAAAJ&hl=en)
 
