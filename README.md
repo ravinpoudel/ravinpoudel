@@ -43,9 +43,11 @@
 
 <p><img align="center" src="https://github.com/ravinpoudel/githubstats/blob/master/generated/overview.svg" alt="ravinpoudel" /></p>
                                                                                                                             
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                                                                                                                                    
+                                                                                                           
+ ![](https://komarev.com/ghpvc/?username=ravinpoudel&label=PROFILE+VIEWS&style=flat&color=red)
+                                                                                                                            
+                                                                                                                                                                  
 
-<p align="center"> 
-  <img src="https://profile-counter.glitch.me/jatin2003/count.svg" alt="Visitor Count" align="center" />
-</p>
-
+                                                                                                                                      
