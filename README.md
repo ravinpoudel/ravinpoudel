@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ravin Poudel</h1>
-<h3 align="center">Computational Biologist | Microbiologist | Data Analyst </h3>
+<h3 align="center"> Microbiologist | Computational Biologist | Data Analyst </h3>
 
 - 🔭  I’m currently developing a a python based software called **[GuideMaker](https://github.com/USDA-ARS-GBRU/GuideMaker)** and **[Web Aplication](https://guidemaker.app.scinet.usda.gov)**
 
