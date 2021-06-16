@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning CD/CI components- [GitHub Actions and Workflows](https://github.com/USDA-ARS-GBRU/GuideMaker/tree/main/.github/workflows)
 
-- 🌱 Actively building omics pipelines using [Nextflow](https://www.nextflow.io)
+- 🌱 Actively building omics pipelines using [Nextflow](https://ravinpoudel.github.io/Bioworkflow/)
 
 - 💬 Ask me about **Microbial Ecology, Microbiome Analytics, Microbiome Networks**
 
