@@ -13,6 +13,8 @@
 
 - 📚 [**My Publications**](https://scholar.google.com/citations?user=FQfT3o4AAAAJ&hl=en)
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 <h2 style="color:red; align="center">Blogs</h2>
 
@@ -27,7 +29,7 @@
                              
                                     
 
-
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -35,7 +37,11 @@
 <a href="https://www.linkedin.com/in/ravin-poudel-56a3a571" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ravinpoudel" height="30" width="40" /></a>
 </p>
 
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <p><img align="left" src="https://github.com/ravinpoudel/githubstats/blob/master/generated/languages.svg" alt="ravinpoudel" /></p>
 
 <p><img align="center" src="https://github.com/ravinpoudel/githubstats/blob/master/generated/overview.svg" alt="ravinpoudel" /></p>
+                                                                                                                            
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
