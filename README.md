@@ -16,6 +16,19 @@
 - 📚 [**My Publications**](https://scholar.google.com/citations?user=FQfT3o4AAAAJ&hl=en)
 
 
+<h2 style="color:red; align="center">Blogs</h2>
+                                    
+* [Deploy Web App built using Streamlit on Google Kubernetes Engine](https://ravinpoudel.github.io/GuideMakerApp/)
+* [Testing the speed and the memory usage of various approaches to store information in python](https://ravinpoudel.github.io/BenchmarkingObjectsPython/)
+* [Creating HPC cluster in AWS with Slurm Workload Manager (SLURM)](https://ravinpoudel.github.io/posts/aws-slurm/)
+* [Is ability to detect a gene a function of seqencing depth?](https://ravinpoudel.github.io/posts/seqencing-depth/)
+* [Designing a targeted panel - for Clinical Genomics](https://ravinpoudel.github.io/posts/exome_gene_panel/)
+* [Extract specific sequences from a big FASTA file](https://ravinpoudel.github.io/posts/randomgenome_access/)
+* [Metagenomics tutorial](https://ravinpoudel.github.io/posts/metagenomics/)
+                             
+                                    
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
