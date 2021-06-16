@@ -3,7 +3,7 @@
 
 - 🔭  I’m currently developing a a python based software called **[GuideMaker](https://github.com/USDA-ARS-GBRU/GuideMaker)**
 
-- 🌱 I’m currently learning CD/CI components- GitHub Actions and Workflows
+- 🌱 I’m currently learning CD/CI components- [GitHub Actions and Workflows](https://github.com/USDA-ARS-GBRU/GuideMaker/tree/main/.github/workflows)
 
 - 💬 Ask me about **Microbial Ecology, Microbiome Analytics, Microbiome Networks**
 
