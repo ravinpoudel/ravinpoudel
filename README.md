@@ -18,7 +18,8 @@
 
 <h2 style="color:red; align="center">Blogs</h2>
 
-* [Evaluating the treatment effects at each individual and across sites](https://ravinpoudel.github.io/tXploreR/)                                    
+* [Evaluating the treatment effects at each individual and across sites](https://ravinpoudel.github.io/tXploreR/) 
+* [KEIO: A python software to process illumina reads for keio-collection type project](https://ravinpoudel.github.io/KEIO/)
 * [Deploying Web App built using Streamlit on Google Kubernetes Engine](https://ravinpoudel.github.io/GuideMakerApp/)
 * [Testing the speed and the memory usage of various approaches to store information in python](https://ravinpoudel.github.io/BenchmarkingObjectsPython/)
 * [Creating HPC cluster in AWS with Slurm Workload Manager (SLURM)](https://ravinpoudel.github.io/posts/aws-slurm/)
