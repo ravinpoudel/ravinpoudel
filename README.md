@@ -24,6 +24,7 @@
 * [Testing the speed and the memory usage of various approaches to store information in python](https://ravinpoudel.github.io/BenchmarkingObjectsPython/)
 * [Creating HPC cluster in AWS with Slurm Workload Manager (SLURM)](https://ravinpoudel.github.io/posts/aws-slurm/)
 * [Is ability to detect a gene a function of seqencing depth?](https://ravinpoudel.github.io/posts/seqencing-depth/)
+* [Python: Append Vs. Concat](https://ravinpoudel.github.io/AppendVsConcat/)
 * [Designing a targeted panel - for Clinical Genomics](https://ravinpoudel.github.io/posts/exome_gene_panel/)
 * [Extract specific sequences from a big FASTA file](https://ravinpoudel.github.io/posts/randomgenome_access/)
 * [Metagenomics tutorial](https://ravinpoudel.github.io/posts/metagenomics/)
