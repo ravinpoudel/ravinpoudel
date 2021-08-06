@@ -32,7 +32,7 @@
  ------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                  
                                     
-<h3 align="left">My Reading List:</h3>
+<h3 align="left">My Reading List</h3>
 <p align="left">
 <a href="https://ravinpoudel.github.io/RavinBookList/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.1/icons/abletonlive.svg" alt="ravinpoudel" height="30" width="40" /></a>
 </p>
