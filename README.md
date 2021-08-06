@@ -34,10 +34,10 @@
                                     
 <h3 align="left">My Reading List</h3>
 <p align="left">
-<a href="https://ravinpoudel.github.io/RavinBookList/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.1/icons/abletonlive.svg" alt="ravinpoudel" height="30" width="40" /></a>
+<a href="https://ravinpoudel.github.io/RavinBookList/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.1/icons/timescale.svg" alt="ravinpoudel" height="30" width="40" /></a>
+<a href="https://ravinpoudel.github.io/RavinBookList/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.1/icons/bookstack.svg" alt="ravinpoudel" height="30" width="40" /></a>
 </p>
-                                    
-
+              
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <h3 align="left">Connect with me:</h3>
