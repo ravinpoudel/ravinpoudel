@@ -28,7 +28,14 @@
 * [Designing a targeted panel - for Clinical Genomics](https://ravinpoudel.github.io/posts/exome_gene_panel/)
 * [Extract specific sequences from a big FASTA file](https://ravinpoudel.github.io/posts/randomgenome_access/)
 * [Metagenomics tutorial](https://ravinpoudel.github.io/posts/metagenomics/)
-                             
+                                    
+ ------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                 
+                                    
+<h3 align="left">My Reading List:</h3>
+<p align="left">
+<a href="https://ravinpoudel.github.io/RavinBookList/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.1/icons/abletonlive.svg" alt="ravinpoudel" height="30" width="40" /></a>
+</p>
                                     
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
