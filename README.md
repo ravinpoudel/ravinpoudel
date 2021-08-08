@@ -18,7 +18,7 @@
 
 <h2 style="color:red; align="center">Blogs</h2>
                                     
-* [Guide to Write Python Package as Software Developer: Exploring CD/CI Using GitHub Workflow and Actions, and AWS Fargate](https://ravinpoudel.github.io/my-first-python-package/README.html)
+* [Guide to Write Python Package as Software Developer: Exploring CD/CI Using GitHub Workflow and Actions, and AWS Fargate](https://ravinpoudel.github.io/writingpythonpackage_withGuideMaker/)
 * [Evaluating the treatment effects at each individual and across sites](https://ravinpoudel.github.io/tXploreR/) 
 * [KEIO: A python software to process illumina reads for keio-collection type project](https://ravinpoudel.github.io/KEIO/)
 * [Deploying Web App built using Streamlit on Google Kubernetes Engine](https://ravinpoudel.github.io/GuideMakerApp/)
