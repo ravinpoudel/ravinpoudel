@@ -23,7 +23,7 @@
 * [KEIO: A python software to process illumina reads for keio-collection type project](https://ravinpoudel.github.io/KEIO/README.html)
 * [Deploying Web App built using Streamlit on Google Kubernetes Engine](https://ravinpoudel.github.io/GuideMakerApp/README.html)
 * [Testing the speed and the memory usage of various approaches to store information in python](https://ravinpoudel.github.io/BenchmarkingObjectsPython/README.html)
-* [Creating HPC cluster in AWS with Slurm Workload Manager (SLURM)](https://ravinpoudel.github.io/posts/aws-slurm/README.html)
+* [Creating HPC cluster in AWS with Slurm Workload Manager (SLURM)](https://ravinpoudel.github.io/AWS-HPC-SLURM/README.html)
 * [Is ability to detect a gene a function of seqencing depth?](https://ravinpoudel.github.io/seqDepth/README.html)
 * [Python: Append Vs. Concat](https://ravinpoudel.github.io/AppendVsConcat/README.html)
 * [Designing a targeted panel - for Clinical Genomics](https://ravinpoudel.github.io/GenomeQuest/README.html#questiontask-clinical-genomics)
