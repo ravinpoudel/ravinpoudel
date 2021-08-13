@@ -21,7 +21,7 @@
 * [Guide to Write Python Package as Software Developer: Exploring CD/CI Using GitHub Workflow and Actions, and AWS Fargate](https://ravinpoudel.github.io/writingpythonpackage_withGuideMaker/README.html)
 * [Evaluating the treatment effects at each individual and across sites](https://ravinpoudel.github.io/tXploreR/README.html) 
 * [KEIO: A python software to process illumina reads for keio-collection type project](https://ravinpoudel.github.io/KEIO/README.html)
-* [Deploying Web App built using Streamlit on Google Kubernetes Engine](https://ravinpoudel.github.io/GuideMakerApp/)
+* [Deploying Web App built using Streamlit on Google Kubernetes Engine](https://ravinpoudel.github.io/GuideMakerApp/README.html)
 * [Testing the speed and the memory usage of various approaches to store information in python](https://ravinpoudel.github.io/BenchmarkingObjectsPython/)
 * [Creating HPC cluster in AWS with Slurm Workload Manager (SLURM)](https://ravinpoudel.github.io/posts/aws-slurm/)
 * [Is ability to detect a gene a function of seqencing depth?](https://ravinpoudel.github.io/seqDepth/)
