@@ -28,7 +28,7 @@
 * [Python: Append Vs. Concat](https://ravinpoudel.github.io/AppendVsConcat/)
 * [Designing a targeted panel - for Clinical Genomics](https://ravinpoudel.github.io/posts/exome_gene_panel/)
 * [Extract specific sequences from a big FASTA file](https://ravinpoudel.github.io/posts/randomgenome_access/)
-* [Metagenomics tutorial](https://ravinpoudel.github.io/posts/metagenomics/)
+* [Metagenomics tutorial](https://github.com/ravinpoudel/metagenomics)
                                     
  ------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                  
