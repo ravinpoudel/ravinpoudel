@@ -28,6 +28,7 @@
 * [Python: Append Vs. Concat](https://ravinpoudel.github.io/AppendVsConcat/)
 * [Designing a targeted panel - for Clinical Genomics](https://ravinpoudel.github.io/GenomeQuest/README.html#questiontask-clinical-genomics)
 * [Extract specific sequences from a big FASTA file](https://ravinpoudel.github.io/GenomeQuest/README.html#question-how-to-extract-specific-sequences-from-a-big-fasta-file)
+* [Using NCBI API's in python to get data](https://ravinpoudel.github.io/GenomeQuest/README.html#ncbi-and-python)
 * [Metagenomics tutorial](https://github.com/ravinpoudel/metagenomics)
                                     
  ------------------------------------------------------------------------------------------------------------------------------------------------------------------
