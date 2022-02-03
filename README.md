@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ravin Poudel</h1>
 <h3 align="center"> Microbiologist | Computational Biologist | Data Analyst </h3>
 
-- 🔭  I’m currently developing a a python based software called **[GuideMaker](https://guidemaker.org)** and its **[Web Aplication](https://guidemaker.app.scinet.usda.gov)**
+- 🔭 I am currently working on IOM (Immuno-Oncology-Microbiome) projects with goal to support microbiome based therapeutics.
 
-- 🌱 I’m currently learning CD/CI components- [GitHub Actions and Workflows](https://github.com/USDA-ARS-GBRU/GuideMaker/tree/main/.github/workflows)
+- 🔭  I have developed a a python based software called **[GuideMaker](https://guidemaker.org)** and its **[Web Aplication](https://guidemaker.app.scinet.usda.gov)** as a part of post-doctoral research with Adam Rivers at USDA-ARS.
 
-- 🌱 Actively building omics pipelines using [Nextflow](https://ravinpoudel.github.io/Bioworkflow/)
+- 🌱 I have experience in CD/CI components- [GitHub Actions and Workflows](https://github.com/USDA-ARS-GBRU/GuideMaker/tree/main/.github/workflows)
+
+- 🌱 Actively building omics pipelines using [Nextflow](https://ravinpoudel.github.io/Bioworkflow/) and snakemake.
 
 - 💬 Ask me about **Microbial Ecology, Microbiome Analytics, Microbiome Networks**
 
