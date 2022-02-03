@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ravin Poudel</h1>
 <h3 align="center"> Microbiologist | Computational Biologist | Data Analyst </h3>
 
-- 🔭 I am currently working on IOM (Immuno-Oncology-Microbiome) projects with goal to support microbiome based therapeutics.
+- 🔭 I am currently working on IOM (Immuno-Oncology-Microbiome) projects with goal to support microbiome based therapeutics in various cancer types.
 
 - 🔭  I have developed a a python based software called **[GuideMaker](https://guidemaker.org)** and its **[Web Aplication](https://guidemaker.app.scinet.usda.gov)** as a part of post-doctoral research with Adam Rivers at USDA-ARS.
 
