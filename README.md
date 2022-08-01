@@ -3,7 +3,7 @@
 
 - 🔭 I am currently working on IOM (Immuno-Oncology-Microbiome) projects with goal to support microbiome based therapeutics in various cancer types.
 
-- 🔭  I have developed a a python based software called **[GuideMaker](https://guidemaker.org)** and its **[Web Aplication](https://guidemaker.app.scinet.usda.gov)** as a part of post-doctoral research with Adam Rivers at USDA-ARS.
+- 🔭  I have developed a a python based software called **[GuideMaker](https://guidemaker.org)** and its **[Web Aplication](https://guidemaker.app.scinet.usda.gov)** as a part of post-doctoral research with [Adam Rivers](https://tinyecology.com) at USDA-ARS.
 
 - 🌱 I have experience in CD/CI components- [GitHub Actions and Workflows](https://github.com/USDA-ARS-GBRU/GuideMaker/tree/main/.github/workflows)
 
