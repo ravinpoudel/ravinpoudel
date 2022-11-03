@@ -14,6 +14,9 @@
 - :email: Contact me @ rp3448@ufl.edu
 
 - 📚 [**My Publications**](https://scholar.google.com/citations?user=FQfT3o4AAAAJ&hl=en)
+- 🌱 Some of my Rshiny App
+              🌱[IBD_VS_NonIBD](https://ravinpoudel.shinyapps.io/ibd-nonibd/)
+              🌱[KeioPlate Mapper](https://ravinpoudel.shinyapps.io/keioplatemapper/)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
