@@ -17,6 +17,7 @@
 - 🌱 Some of my Rshiny App
               🌱[IBD_VS_NonIBD](https://ravinpoudel.shinyapps.io/ibd-nonibd/)
               🌱[KeioPlate Mapper](https://ravinpoudel.shinyapps.io/keioplatemapper/)
+              🌱[txplorer](https://ravinpoudel.shinyapps.io/txplorer/)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
