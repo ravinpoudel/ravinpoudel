@@ -22,6 +22,7 @@
 
 
 <h2 style="color:red; align="center">Blogs</h2>
+
 * [Tracking Flu Strains Using HyperLogLog and k-mer Analysis](https://ravinpoudel.github.io/HLL-NextStrain/)
 * [Guide to Write Python Package as Software Developer: Exploring CD/CI Using GitHub Workflow and Actions, and AWS Fargate](https://ravinpoudel.github.io/writingpythonpackage_withGuideMaker/README.html)
 * [Evaluating the treatment effects at each individual and across sites](https://ravinpoudel.github.io/tXploreR/README.html) 
