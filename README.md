@@ -8,7 +8,7 @@
 
 - 🌱 I have experience in CD/CI components- [GitHub Actions and Workflows](https://github.com/USDA-ARS-GBRU/GuideMaker/tree/main/.github/workflows)
 
-- 🌱 Actively building omics pipelines using [Nextflow](https://ravinpoudel.github.io/Bioworkflow/) and snakemake.
+- 🌱 Actively building omics pipelines using [Nextflow](https://ravinpoudel.github.io/Bioworkflow/) and [snakemake](https://ravinpoudel.github.io/SOPS/).
 
 - 💬 Ask me about **Microbial Ecology, Microbiome Analytics, Microbiome Networks**
 
