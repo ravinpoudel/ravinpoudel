@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Microbial Ecology, Microbiome Analytics, Microbiome Networks**
 
-- :email: Contact me @ rp3448@ufl.edu
+- :email: Contact me @ raveenpoudel@gmail.com
 
 - 📚 [**My Publications**](https://scholar.google.com/citations?user=FQfT3o4AAAAJ&hl=en)
 - 🌱 Some of my Rshiny App
